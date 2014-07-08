@@ -22,6 +22,10 @@ models of ourselves.
 
 # elxs / them
 
+* cria 0.2
+  * searchs for python, ruby and node.js scripts
+  * runs python, ruby and node.js
+
 * cria 0.1
   * "i wanna code something and i wanna now"
   * searchs public gists and run them
